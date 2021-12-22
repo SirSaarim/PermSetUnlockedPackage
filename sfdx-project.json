@@ -4,14 +4,15 @@
             "path": "force-app",
             "default": true,
             "package": "salesApps",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionName": "Version 1.0",
+            "versionNumber": "1.0.0.NEXT"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "47.0",
     "packageAliases": {
-        "salesApps": "0Ho5g000000XZq3CAG"
+        "salesApps": "0Ho5g000000XZq3CAG",
+        "salesApps@1.0.0-1": "04t5g0000001hS2AAI"
     }
 }
